@@ -1,5 +1,5 @@
 # Mandelbrot Set in Unity
-Real-time Mandelbrot Set running on GPU with a fragment shader.
+Real-time visualisation of the Mandelbrot Set running on GPU with a fragment shader.
 * Allows for up to 50 000x zoom
 * Number of iterations can be changed for better performance or more accuracy
 * Colors are animated and slowly change over time
